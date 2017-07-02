@@ -2,9 +2,9 @@
 
 ## Design requirements
 
-- Some input voltage.
-- Some output voltage.
-- Hardware protection, overvoltage and overcurrent.
+- 24V max input. (Arbitrary decision)
+- Some output voltage. (It's software-controlled, so... maybe like 50V max?)
+- Hardware protection, overvoltage and overcurrent. The micro has analog comparators, see if those could be used
 - A bunch of amps but not too many.
 
 ## More constructive thoughts than above
