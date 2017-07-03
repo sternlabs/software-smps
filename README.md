@@ -5,7 +5,7 @@
 - 24V max input. (Arbitrary decision)
 - Some output voltage. (It's software-controlled, so... maybe like 50V max?)
 - Hardware protection, overvoltage and overcurrent. The micro has analog comparators, see if those could be used
-- A bunch of amps but not too many.
+- Low output current, like 3A max, we don't need high current
 
 ## More constructive thoughts than above
 
