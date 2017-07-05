@@ -5,4 +5,9 @@ D SMART ARM-Based Microcontroller
 K atmel, microcontroller
 $ENDCMP
 #
+$CMP DMC2038LVT
+D Complementary pair enhancement mode MOSFET
+K N-Channel P-Channel MOSFET
+$ENDCMP
+#
 #End Doc Library
