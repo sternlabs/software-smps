@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ATSAMD11D14
+D SMART ARM-Based Microcontroller
+K atmel, microcontroller
+$ENDCMP
+#
 #End Doc Library
