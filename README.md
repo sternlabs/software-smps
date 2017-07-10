@@ -3,7 +3,7 @@
 ## Design requirements
 
 - 24V max input. (Arbitrary decision)
-- Some output voltage. (It's software-controlled, so... maybe like 50V max?)
+- 24V max output. (Arbitrary decision, we can review this later)
 - Hardware protection, overvoltage and overcurrent. The micro has analog comparators, see if those could be used
 - Low output current, like 3A max, we don't need high current
 
