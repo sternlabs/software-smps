@@ -29,6 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:smps-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -83,9 +84,11 @@ L L L?
 U 1 1 595E314F
 P 5650 2600
 F 0 "L?" V 5600 2600 50  0000 C CNN
-F 1 "L" V 5725 2600 50  0000 C CNN
+F 1 "47µH" V 5725 2600 50  0000 C CNN
 F 2 "" H 5650 2600 50  0001 C CNN
-F 3 "" H 5650 2600 50  0001 C CNN
+F 3 "http://www.bourns.com/docs/Product-Datasheets/SRP1265A.pdf" H 5650 2600 50  0001 C CNN
+F 4 "SRP1265A-470M" V 5650 2600 60  0001 C CNN "Part number"
+F 5 "SRP1265A-470MCT-ND" V 5650 2600 60  0001 C CNN "Digikey"
 	1    5650 2600
 	0    -1   -1   0   
 $EndComp
