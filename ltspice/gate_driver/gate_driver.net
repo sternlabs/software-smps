@@ -10,7 +10,7 @@ R7 N007 N006 50
 V1 N001 0 24
 V2 N006 0 PULSE(0 3.3 0 1n 1n 500n 1u)
 M2 P001 N007 0 0 AON6242
-R5 N002 0 47k
+R5 N001 N002 182
 .model NPN NPN
 .model PNP PNP
 .lib C:\Users\nikomo\Documents\LTspiceXVII\lib\cmp\standard.bjt

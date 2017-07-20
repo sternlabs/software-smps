@@ -2,20 +2,20 @@ Circuit: * F:\Projects\software-smps\ltspice\gate_driver\gate_driver.asc
 
 Direct Newton iteration for .op point succeeded.
 
-Date: Thu Jul 20 14:17:30 2017
-Total elapsed time: 0.241 seconds.
+Date: Thu Jul 20 14:21:50 2017
+Total elapsed time: 0.244 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 19859
-traniter = 19851
-tranpoints = 5281
-accept = 3733
-rejected = 1548
+totiter = 18958
+traniter = 18949
+tranpoints = 5008
+accept = 3545
+rejected = 1463
 matrix size = 23
 fillins = 10
 solver = Normal
-Matrix Compiler1: 2.00 KB object code size  0.7/0.6/[0.2]
-Matrix Compiler2: off  [0.4]/0.7/0.4
+Matrix Compiler1: 2.01 KB object code size  1.3/0.6/[0.2]
+Matrix Compiler2: off  [0.4]/0.8/0.5
 
